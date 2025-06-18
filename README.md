@@ -1,7 +1,7 @@
 # ☕ Java Practice Programs
 
 Welcome to my **Java Practice Repository**!  
-This repo is a collection of random Java programs I've written while learning and experimenting with different concepts in Java. It's not organized by topic — just a place for hands-on practice and exploration.
+This repo is a collection of random Java programs I've written while learning and experimenting with different concepts in Java. It's not organized by topic,just a place for hands-on practice and exploration.
 
 ## 📁 What You'll Find
 
