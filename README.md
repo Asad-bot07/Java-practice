@@ -47,9 +47,9 @@ But feel free to fork, clone, or use the code as a reference for your own learni
 
 ## 📌 Note
 
--Code quality may vary.
--Some files may be incomplete or experimental.
--No fixed folder structure — it's all based on practice flow.
+- Code quality may vary.
+- Some files may be incomplete or experimental.
+- No fixed folder structure — it's all based on practice flow.
 
 
 ---
