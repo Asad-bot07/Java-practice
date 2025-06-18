@@ -32,6 +32,7 @@ You may find a mix of beginner and intermediate-level code here.
 
     ```
     javac FileName.java
+    
     ```
 
 ## Run the compiled class with:
