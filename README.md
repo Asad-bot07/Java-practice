@@ -25,12 +25,12 @@ You may find a mix of beginner and intermediate-level code here.
 
 1. Make sure you have Java installed. You can check by running:
 
-   ```
+   ```bash
    java -version
 
 ## Compile a file using:
 
-    ```bash
+    ```
     javac FileName.java
     ```
 
