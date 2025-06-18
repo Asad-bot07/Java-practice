@@ -28,12 +28,11 @@ You may find a mix of beginner and intermediate-level code here.
    ```bash
    java -version
 
-## Compile a file using:
+## Compile a file with:
 
-    ```
-    javac FileName.java
-    
-    ```
+```
+javac Filename.java
+```
 
 ## Run the compiled class with:
 
