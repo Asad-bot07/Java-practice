@@ -32,7 +32,9 @@ You may find a mix of beginner and intermediate-level code here.
 
 ## Compile a file using:
 
-javac FileName.java
+    ```bash
+    javac FileName.java
+    ```
 
 ## Run the compiled class with:
 
