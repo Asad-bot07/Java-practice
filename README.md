@@ -55,5 +55,3 @@ But feel free to fork, clone, or use the code as a reference for your own learni
 
 
 ---
-
-Let me know if you'd like to add a logo, badges, or links to specific folders once your repo grows!
