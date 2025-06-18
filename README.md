@@ -8,8 +8,6 @@ This repo is a collection of random Java programs I've written while learning an
 - Simple code snippets
 - Programs based on control structures (if-else, loops, etc.)
 - Object-Oriented Programming (OOP) examples
-- File handling and exception handling trials
-- Miscellaneous small projects or console apps
 - Concept tests and rough implementations
 
 ## 🎯 Purpose
