@@ -36,7 +36,9 @@ You may find a mix of beginner and intermediate-level code here.
 
 ## Run the compiled class with:
 
+```
 java FileName
+```
 
 > ⚠️ Some files might contain a main method inside different classes. Make sure you're running the correct one.
 
