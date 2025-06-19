@@ -4,8 +4,6 @@ called deposit() and withdraw().Create a subclass called SavingsAccount that ove
 withdraw() method to prevent withdrawals if the account balance falls below one hundred.
 */
 import java.util.*;
-
-import javax.swing.plaf.metal.MetalBorders.ScrollPaneBorder;
 class BankAccount{
     void deposit(){}
     void withdraw(){}
