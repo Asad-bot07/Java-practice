@@ -5,10 +5,10 @@ Create a subclass called Rectangle that overrides
 the getArea() method to calculate the area of a rectangle.
  */
 import java.util.*;
-class Shape{
+class Shape1{
     void getArea(){}
 }
-class Rectangle extends Shape{
+class Rectangle extends Shape1{
     int length,breadth;
     Rectangle(int length,int breadth)
     {
